@@ -1,0 +1,13 @@
+{
+    "localPath":"C:\\ProgramData\\IntuneMigration",
+    "logPath":"C:\\ProgramData\\Microsoft\\IntuneManagementExtension\\Logs",
+    "regPath":"HKLM\\SOFTWARE\\IntuneMigration",
+    "sourceTenant": {
+        "clientId":"167266ef-e622-47e2-8aae-b970d569bc17",
+        "clientSecret":"kPB8Q~8iqx2VGDkoJvY5hZeOoUnkzojF~pNxjdAE",
+        "tenantName":"absolut365.com.ar"
+    },
+    "groupTag":"",
+    "bitlocker":"migrate",
+    "SCCM":false
+}
